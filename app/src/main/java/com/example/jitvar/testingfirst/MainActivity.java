@@ -52,5 +52,7 @@ public class MainActivity extends AppCompatActivity {
     private void TestUpload(){
         // This method is to check the upload on github
         int i = 0;
+        int ii = 1;
+        int iii = 2;
     }
 }
